@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "test_runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/3j1WLzFVsvffIuiR2qZSdxPhi0Rpg47eokbIDgmhOgFV7Kbjll",
+  "gitHubUrl": "https://github.com/goten-organization",
+  "workFolder": "_work"
+}
